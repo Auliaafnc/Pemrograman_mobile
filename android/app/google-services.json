@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "468101853783",
+    "project_id": "pemrograman-mobile-5e1ca",
+    "storage_bucket": "pemrograman-mobile-5e1ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468101853783:android:89d5ceaff3767caab32912",
+        "android_client_info": {
+          "package_name": "com.example.pert4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHSeVrJkhQPpZezg1P3qLrSCac_K8OHgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468101853783:android:ed8e16e003a65fb7b32912",
+        "android_client_info": {
+          "package_name": "my.id.auliaaa.percobaanmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHSeVrJkhQPpZezg1P3qLrSCac_K8OHgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468101853783:android:c3ad394f346798d6b32912",
+        "android_client_info": {
+          "package_name": "my.id.auliaaa.pert6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHSeVrJkhQPpZezg1P3qLrSCac_K8OHgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468101853783:android:b70aa34d41a08fb5b32912",
+        "android_client_info": {
+          "package_name": "my.id.auliaaa.project3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHSeVrJkhQPpZezg1P3qLrSCac_K8OHgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468101853783:android:af010e80d2a69bd6b32912",
+        "android_client_info": {
+          "package_name": "my.id.auliaaa.project4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHSeVrJkhQPpZezg1P3qLrSCac_K8OHgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
